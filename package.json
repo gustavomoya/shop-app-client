@@ -1,0 +1,25 @@
+{
+  "name": "shop-app-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel register.html",
+    "build": "parcel build register.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "feather-icons": "^4.29.0",
+    "highlight": "^0.2.4",
+    "main.css": "^3.0.0",
+    "perfect-scrollbar": "^1.5.5",
+    "structure.css": "^0.8.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
